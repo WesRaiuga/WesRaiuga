@@ -66,6 +66,7 @@ Quer saber mais sobre mim? [Dá uma olhada no meu portfólio](https://wesraiuga.
 ![](https://img.shields.io/badge/Code-Maven-informational?style=flat&logo=Apache-Maven&logoColor=white&color=403A6A)
 <br/>
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=403A6A)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=403A6A)
 ![](https://img.shields.io/badge/Code-AngularJS-informational?style=flat&logo=AngularJS&logoColor=white&color=403A6A)
 
 <br/>
@@ -111,8 +112,13 @@ Quer saber mais sobre mim? [Dá uma olhada no meu portfólio](https://wesraiuga.
 ![](https://img.shields.io/badge/Tools-VS_Code-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=403A6A)
 
 <!-- Others -->
-![](https://img.shields.io/badge/Tools-Slack-informational?style=flat&logo=Slack&logoColor=white&color=403A6A)
+![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=flat&logo=RabbitMQ&logoColor=white&color=403A6A)
 ![](https://img.shields.io/badge/Tools-Microsoft_SharePoint-informational?style=flat&logo=Microsoft-SharePoint&logoColor=white&color=403A6A)
 ![](https://img.shields.io/badge/Tools-Microsoft_Office-informational?style=flat&logo=Microsoft-Office&logoColor=white&color=403A6A)
+![](https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=Trello&logoColor=white&color=403A6A)
+![](https://img.shields.io/badge/Tools-Slack-informational?style=flat&logo=Slack&logoColor=white&color=403A6A)
+![](https://img.shields.io/badge/Tools-Confluence-informational?style=flat&logo=Confluence&logoColor=white&color=403A6A)
+![](https://img.shields.io/badge/Tools-Gmail-informational?style=flat&logo=Gmail&logoColor=white&color=403A6A)
+![](https://img.shields.io/badge/Tools-GeoServer-informational?style=flat&logo=Geoserver&logoColor=white&color=403A6A)
 
 </details>
