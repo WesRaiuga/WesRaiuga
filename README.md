@@ -29,3 +29,28 @@ Quer saber mais sobre mim? [Dá uma olhada no meu portfólio](https://wesraiuga.
 </a>
 
 <br/><br/>
+
+<!-- Certifications -->
+## 🎓 Certificações
+
+<table>
+    <tr>
+        <td>
+            <a href="https://www.youracclaim.com/badges/e1fbbf38-54a8-4825-9e4b-51482f9edef7">
+                <img align="center" style="max-height: 120px" src="./assets/oracle-associates-badge.png" />
+            </a>
+        <td>
+        <td>
+            <p style="font-size: 15pt">
+                <a href="https://www.youracclaim.com/badges/e1fbbf38-54a8-4825-9e4b-51482f9edef7">
+                    Oracle Certified Associate, JAVA SE 8 Programmer
+                </a>
+            </p>
+            <p style="color: #c9cacc">
+                An Oracle Certified Associate, Java SE 8 Programmer has demonstrated knowledge of object-oriented concepts, the Java programming language and general knowledge of Java platforms and technologies.
+            </p>
+        </td>
+    </tr>
+</table>
+
+<br/>
