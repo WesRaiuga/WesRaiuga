@@ -37,7 +37,7 @@ Quer saber mais sobre mim? [Dá uma olhada no meu portfólio](https://wesraiuga.
     <tr>
         <td>
             <a href="https://www.youracclaim.com/badges/e1fbbf38-54a8-4825-9e4b-51482f9edef7">
-                <img align="center" style="max-height: 120px" src="./assets/oracle-associates-badge.png" />
+                <img align="center" style="max-height: 100px" src="./assets/oracle-associates-badge.png" />
             </a>
         <td>
         <td>
@@ -78,7 +78,7 @@ Quer saber mais sobre mim? [Dá uma olhada no meu portfólio](https://wesraiuga.
 <br/>
 
 <details>
-<summary>Mais habilidades</summary>
+<summary>🎯 Mais Habilidades</summary>
 <br/>
 
 <!-- Web Development -->
