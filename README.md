@@ -16,7 +16,7 @@ Quer saber mais sobre mim? [Dá uma olhada no meu portfólio](https://wesraiuga.
 <!-- Pinned Repositories -->
 ## 📌 Repositórios fixados
 
-<a href="https://github.com/wesraiuga/wesraiuga">
+<a href="https://github.com/wesraiuga/weslley-cv">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=wesraiuga&repo=weslley-cv&title_color=ffffff&text_color=c9cacc&icon_color=4DCBE4&bg_color=403A6A" />
 </a>
 
