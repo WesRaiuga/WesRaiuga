@@ -1,4 +1,4 @@
-[![Weslley's GitHub Banner](./readme_assets/github-banner.jpg)](https://wesraiuga.github.io/weslley-cv/)
+[![Weslley's GitHub Banner](./assets/github-banner.jpg)](https://wesraiuga.github.io/weslley-cv/)
 
 [![Website Badge](https://img.shields.io/website?url=https%3A%2F%2Fwesraiuga.github.io%2Fweslley-cv%2F)](https://wesraiuga.github.io/weslley-cv/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesraiuga/)
@@ -50,7 +50,7 @@ Ou entre em contato:
     <tr>
         <td>
             <a href="https://www.youracclaim.com/badges/e1fbbf38-54a8-4825-9e4b-51482f9edef7">
-                <img align="center" style="max-height: 100px" src="./readme_assets/oracle-associates-badge.png" />
+                <img align="center" style="max-height: 80px" src="./assets/oracle-associates-badge.png" />
             </a>
         <td>
         <td>
