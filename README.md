@@ -1,9 +1,10 @@
 [![Weslley's GitHub Banner](./readme_assets/github-banner.jpg)](https://wesraiuga.github.io/weslley-cv/)
 
 [![Website Badge](https://img.shields.io/website?url=https%3A%2F%2Fwesraiuga.github.io%2Fweslley-cv%2F)](https://wesraiuga.github.io/weslley-cv/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=403A6A)](https://www.linkedin.com/in/wesraiuga/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=403A6A)](https://codepen.io/wesraiuga)
-[![PSN Badge](https://img.shields.io/badge/Playstation-Profile-informational?style=flat&logo=playstation&logoColor=white&color=403A6A)](https://my.playstation.com/profile/WesRaiuga)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesraiuga/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=9237BD)](https://www.instagram.com/wesraiuga/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-black?style=flat&logo=codepen&logoColor=white)](https://codepen.io/wesraiuga)
+[![PSN Badge](https://img.shields.io/badge/Playstation-informational?style=flat&logo=playstation&logoColor=white&color=0070D1)](https://my.playstation.com/profile/WesRaiuga)
 
 
 <p style="font-size: 15pt">Olá 👋</p>
