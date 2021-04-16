@@ -50,7 +50,7 @@ Ou entre em contato:
     <tr>
         <td>
             <a href="https://www.youracclaim.com/badges/e1fbbf38-54a8-4825-9e4b-51482f9edef7">
-                <img align="center" style="max-height: 80px" src="./assets/oracle-associates-badge.png" />
+                <img align="center" width="250" src="./assets/oracle-associates-badge.png" />
             </a>
         <td>
         <td>
