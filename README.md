@@ -63,8 +63,6 @@ Ou entre em contato:
     </tr>
 </table>
 
-<br/>
-
 <!-- Tools and Technologies -->
 ## 🎯 Tecnologias e Ferramentas
 
@@ -90,8 +88,6 @@ Ou entre em contato:
 <!-- Databases -->
 ![Oracle Badge](https://img.shields.io/badge/Oracle-informational?style=flat&logo=Oracle&logoColor=white&color=F80000)
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=336791)
-
-<br/>
 
 <details>
 <summary>🎯 Mais Tecnologias</summary>
