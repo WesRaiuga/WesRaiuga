@@ -1,4 +1,4 @@
-[![Weslley's GitHub Banner](./assets/banner.gif)](https://wesraiuga.github.io/weslley-cv/)
+[![Weslley's GitHub Banner](./assets/banner_optimized.gif)](https://wesraiuga.github.io/weslley-cv/)
 
 [![Website Badge](https://img.shields.io/website?url=https%3A%2F%2Fwesraiuga.github.io%2Fweslley-cv%2F)](https://wesraiuga.github.io/weslley-cv/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesraiuga/)
