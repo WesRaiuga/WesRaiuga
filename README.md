@@ -12,7 +12,7 @@ Eu sou o Wes, desenvolvedor back-end, mas que também estuda e pratica front-end
 
 Sou formado em Análise e Desenvolvimento de Sistemas pela [FIAP](https://www.fiap.com.br/), trabalho com Java há mais de 2 anos e estou aprendendo Kotlin.
 
-Nas nas horas vagas gosto de praticar esportes e jogar videogame.
+Nas horas vagas gosto de praticar esportes e jogar videogame.
 
 <!-- Quer saber mais sobre mim? [Dá uma olhada no meu site](https://wesraiuga.github.io/weslley-cv/)!
 
