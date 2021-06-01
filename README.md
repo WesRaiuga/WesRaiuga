@@ -23,6 +23,13 @@ Ou entre em contato:
 ![WhatsApp Badge](https://img.shields.io/badge/WhatsApp-informational?style=flat&logo=WhatsApp&logoColor=white&color=00E676)
 </a> -->
 
+<!-- Status -->
+## ✨ Status
+<div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesraiuga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=contribs"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesraiuga&layout=compact&langs_count=10&theme=tokyonight"/>
+</div>
+
 <!-- Pinned Repositories -->
 <!-- ## 📌 Repositórios fixados
 
