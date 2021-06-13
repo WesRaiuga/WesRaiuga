@@ -77,6 +77,7 @@ Ou entre em contato:
 ![Java Badge](https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=white&color=007396)
 ![Spring Badge](https://img.shields.io/badge/Spring-informational?style=flat&logo=Spring&logoColor=white&color=6DB33F)
 ![Maven Badge](https://img.shields.io/badge/Maven-informational?style=flat&logo=Apache-Maven&logoColor=white&color=C71A36)
+![JUnit Badge](https://img.shields.io/badge/JUnit5-informational?style=flat&logo=JUnit5&logoColor=white&color=25A162)
 
 <!-- Web Development -->
 ![Javascript Badge](https://img.shields.io/badge/Javascript-informational?style=flat&logo=JavaScript&logoColor=black&color=F7DF1E)
