@@ -106,6 +106,7 @@ Ou entre em contato:
 ![Git Badge](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=F05032)
 ![Github Badge](https://img.shields.io/badge/Github-informational?style=flat&logo=Github&logoColor=white&color=181717)
 ![Bitbucket Badge](https://img.shields.io/badge/Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=0052CC)
+![GitLab Badge](https://img.shields.io/badge/GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=FCA121)
 
 <!-- API Tests -->
 ![Postman Badge](https://img.shields.io/badge/Postman-informational?style=flat&logo=Postman&logoColor=white&color=FF6C37)
