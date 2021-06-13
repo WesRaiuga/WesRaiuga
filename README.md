@@ -3,8 +3,6 @@
 [![Website Badge](https://img.shields.io/website?url=https%3A%2F%2Fwesraiuga.github.io%2Fweslley-cv%2F)](https://wesraiuga.github.io/weslley-cv/)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesraiuga/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=9237BD)](https://www.instagram.com/wesraiuga/)
-[![PSN Badge](https://img.shields.io/badge/PSN-informational?style=flat&logo=playstation&logoColor=white&color=0070D1)](https://my.playstation.com/profile/WesRaiuga)
-
 
 <p style="font-size: 15pt">Olá 👋</p>
 
