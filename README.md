@@ -8,7 +8,7 @@
 
 Eu sou o Wes, desenvolvedor back-end, mas que também estuda e pratica front-end.
 
-Sou formado em Análise e Desenvolvimento de Sistemas pela [FIAP](https://www.fiap.com.br/), trabalho com Java há mais de 2 anos e estou aprendendo Kotlin.
+Sou formado em Análise e Desenvolvimento de Sistemas pela [FIAP](https://www.fiap.com.br/) e trabalho com Java há mais de 3 anos.
 
 Nas horas vagas gosto de praticar esportes e jogar videogame.
 
