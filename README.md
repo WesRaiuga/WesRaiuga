@@ -78,9 +78,6 @@ Ou entre em contato:
 ![Spring Badge](https://img.shields.io/badge/Spring-informational?style=flat&logo=Spring&logoColor=white&color=6DB33F)
 ![Maven Badge](https://img.shields.io/badge/Maven-informational?style=flat&logo=Apache-Maven&logoColor=white&color=C71A36)
 
-![Kotlin Badge](https://img.shields.io/badge/Kotlin/JVM-informational?style=flat&logo=Kotlin&logoColor=white&color=0095D5)
-![Kotlin Badge](https://img.shields.io/badge/Gradle-informational?style=flat&logo=Gradle&logoColor=white&color=02303A)
-
 <!-- Web Development -->
 ![Javascript Badge](https://img.shields.io/badge/Javascript-informational?style=flat&logo=JavaScript&logoColor=black&color=F7DF1E)
 ![React Badge](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=black&color=61DAFB)
